@@ -1,2 +1,1 @@
-> no matter the challenges
-> I will never quit.
+__This file is mandatory in projects__
